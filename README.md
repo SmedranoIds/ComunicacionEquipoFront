@@ -17,3 +17,17 @@ resulta que me gusta esa tal mirna
 
 
 asi entre compadres... a quien si le das del piso 10??
+
+
+vamos hacer un ratting 
+reglas contestar 
+si->1 
+no->2
+si le doy pero no muy convencido ->3
+
+
+Sara => 
+Angie=>
+mirna=>
+la nalgona de la coleta=>
+ojos bonitos=>
