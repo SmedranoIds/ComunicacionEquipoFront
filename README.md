@@ -10,3 +10,5 @@ resulta que me gusta esa tal mirna
 
  Espera! En frente de donde estaba Emmanuel?
  O atras de Angie?
+
+ ps la morra esta domo llenita, simpatica, en donde se sentaban ustedes a ladito del towy
