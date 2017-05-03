@@ -36,3 +36,4 @@ Oh ya, jehe, dile que te preste su biscocho!.
 
 Ammm... A JEnny, a Angie, a La chica que esta de espaldas a angie, a la que esta enfrente de ella y a la que esta por los baños de hombres del otro lado 
 
+***aparte hay dos morras que estan en el pasillo para llegar dl lado amarillo al verde
