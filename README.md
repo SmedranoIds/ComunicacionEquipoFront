@@ -17,3 +17,7 @@ resulta que me gusta esa tal mirna
 
 
 asi entre compadres... a quien si le das del piso 10??
+
+Oh ya, jehe, dile que te preste su biscocho!.
+
+Ammm... A JEnny, a Angie, a La chica que esta de espaldas a angie, a la que esta enfrente de ella y a la que esta por los baños de hombres del otro lado 
