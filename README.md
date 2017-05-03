@@ -12,3 +12,5 @@ resulta que me gusta esa tal mirna
  O atras de Angie?
 
  ps la morra esta domo llenita, simpatica, en donde se sentaban ustedes a ladito del towy
+
+ ahi donde estas sentado ahorita se ve, casi enfrente de claudia pero del otro lado
