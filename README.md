@@ -26,14 +26,16 @@ no->2
 si le doy pero no muy convencido ->3
 
 
-Sara => 
-Angie=>
-mirna=>
-la nalgona de la coleta=>
-ojos bonitos=>
+Sara => 3
+Angie=>1
+mirna=>3
+la nalgona de la coleta=> 1
+ojos bonitos=> 3
 
 Oh ya, jehe, dile que te preste su biscocho!.
 
 Ammm... A JEnny, a Angie, a La chica que esta de espaldas a angie, a la que esta enfrente de ella y a la que esta por los baños de hombres del otro lado 
 
 ***aparte hay dos morras que estan en el pasillo para llegar dl lado amarillo al verde
+
+Tambien hay una chica en el corredor para la otra sala, que tiene unas piernotas 
