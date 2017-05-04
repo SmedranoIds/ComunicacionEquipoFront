@@ -28,7 +28,27 @@
 			{'id':14,'hembra':'angie', 'egml':'','smm':''},
 			{'id':15,'hembra':'angie', 'egml':'','smm':''}
 ]
-console.log(tabla[2]);
+
+
+function rating( id , quien ){
+	if(quien == 'egml'){
+		a = 'el flaco';
+	}else if(quien == 'smm'){
+		a = 'tt';
+	}else{
+		a = '';
+	}
+
+	if ( a != ""){
+		console.info('el ' + a + ' califica a' + tabla[ id ]['hembra']+ ' con '+tabla[ id ][ quien ]);
+	}else{
+		console.error('no conocemos a ese compadre')
+	}
+}
+ 
+
+
+
 
 
 
