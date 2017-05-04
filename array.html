@@ -48,6 +48,25 @@ function rating( id , quien ){
 		console.error('no conocemos a ese compadre .i.')
 	}
 }
+
+function muestra( quien ){
+	if(quien == 'egml'){
+		a = 'flaco';
+	}else if(quien == 'smm'){
+		a = 'tt';
+	}else{
+		a = '';
+	}
+
+	if ( a != ""){
+		for (var i = 0; i <= tabla.length; i++) {
+		
+		console.info(' ' + tabla[ i ]['hembra'] + ' EGML->' + tabla[i]['egml'] + ': SMM->' + tabla[i]['smm']);
+	}
+	}else{
+		console.error('no conocemos a ese compadre .i.')
+	}
+}
  
 
 
