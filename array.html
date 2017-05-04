@@ -5,8 +5,9 @@
 	<title>Document</title>
 </head>
 <body>
-	
+	<p class="respuesta"></p>
 </body>
+<script src="https://code.jquery.com/jquery.js"></script>
 <script>
 	var tabla=[];
 	tabla=[
@@ -28,7 +29,29 @@
 			{'id':14,'hembra':'angie', 'egml':'','smm':''},
 			{'id':15,'hembra':'angie', 'egml':'','smm':''}
 ]
-console.log(tabla[2]);
+
+
+function rating( id , quien ){
+	if(quien == 'egml'){
+		a = 'flaco';
+	}else if(quien == 'smm'){
+		a = 'tt';
+	}else{
+		a = '';
+	}
+
+	if ( a != ""){
+		console.info('el ' + a + ' califica a' + tabla[ id ]['hembra']+ ' con '+tabla[ id ][ quien ]);
+		$('p.respuesta').html('el ' + a + ' califica a' + tabla[ id ]['hembra']+ ' con '+tabla[ id ][ quien ])
+
+	}else{
+		console.error('no conocemos a ese compadre .i.')
+	}
+}
+ 
+
+
+
 
 
 
