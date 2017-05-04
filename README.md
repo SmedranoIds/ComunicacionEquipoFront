@@ -39,3 +39,7 @@ Ammm... A JEnny, a Angie, a La chica que esta de espaldas a angie, a la que esta
 ***aparte hay dos morras que estan en el pasillo para llegar dl lado amarillo al verde
 
 Tambien hay una chica en el corredor para la otra sala, que tiene unas piernotas 
+
+
+
+Oye! le dije a sara que vamos hacerun juego, y estamos creando el piso 10 y la tabla es para las personas que estan en el piso, cada persona tiene puntos.
